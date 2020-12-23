@@ -10,6 +10,7 @@ import java.util.List;
 
 /**
  * 自定义字符串编码器
+ *
  * 来源：公众号，程序新视界
  * @author sec
  * @version 1.0
